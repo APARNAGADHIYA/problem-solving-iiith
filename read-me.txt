@@ -1,0 +1,16 @@
+Follow the following steps to fork a Repository.
+
+1) Navigate to the repository you want to fork in your Git Hub Handle.
+
+2) Click on the Repository.
+
+
+3) Click on the fork option to the right of the screen.
+
+
+4) You can see the copy of the repository in your github repository section.
+
+5) But the files in the repository are not in your local computer repository.
+
+
+6) You need clone the repository.
